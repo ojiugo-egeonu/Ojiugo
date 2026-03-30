@@ -1,0 +1,17 @@
+                                                             Brainstorm for the Final Project
+1. List 5 topics related to astronomy, physics, technology, science or math that sound interesting to you.
+    Solar System, Constellations, Carbon Sequestering, Black Holes, Blood Clots
+2. For three of these topics, find a dataset, tool, news article, or paper online that relates to it. Summarize how each source relates to the topic in your own words.
+    Solar System: The dataset relates to the topic as it includes info on the planets size, moon, and other vital info
+        https://mdn.github.io/learning-area/html/tables/assessment-finished/planets-data.html
+    Carbon Sequestration: The articles relates to the topic as it talks about how this method of collecting carbon dioxide can mitigate climate change
+        https://pubs.usgs.gov/fs/2008/3097/pdf/CarbonFS.pdf
+    Constellations: The tool relates to the topic as it shows the stars that can be seen at any moment depending on where you are in the world
+        https://theskylive.com/planetarium
+3. Choose one topic and brainstorm how you could Python skills (loops, conditionals, functions, lists/dictionaries, github, version control) to explore, analyze or create something with it.
+    Numpy: to make numerical operations
+    Matplotlib: to make visualizations such as graphs
+4. Write down at least two possible project ideas connected to your topic. One should be ambitious (a “dream” version) and the other should be smaller, simpler version that you could realistically finish in a few weeks.
+    Solar System: How planets distance from the sun affects its functionality or purpose in space
+        
+        
